@@ -1,2 +1,3 @@
-.vhd linguist-language=SystemVerilog
-.v linguist-language=SystemVerilog
+*.vhd linguist-language=SystemVerilog
+*.vhdl linguist-language=SystemVerilog
+*.v linguist-language=SystemVerilog
