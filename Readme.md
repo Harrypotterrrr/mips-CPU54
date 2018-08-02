@@ -6,6 +6,6 @@
 - ModelSim PE 10.4c
 # Attention
 - My code is totally rubbish, but it will indeed help you pass the online test.
-- Change names of REGISTER, and it can change the timming log thoroughly
+- <font color=Red>Change names of REGISTER, and it can change the timming log thoroughly</font>
 # Update
 - update on July 27th in 2018
